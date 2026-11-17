@@ -28,7 +28,9 @@ Web and mobile apps that put models and data in front of real users.
 ## Tech stack
 
 **Data:** Python, pandas, NumPy, SciPy, SQL, scikit-learn, Jupyter
+
 **Web:** JavaScript/TypeScript, React, Node.js
+
 **Tools:** Git, Docker, Tableau
 
 ## Work with me
