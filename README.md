@@ -23,8 +23,6 @@ Web and mobile apps that put models and data in front of real users.
 
 - 🌍 **[TerraPulse](https://github.com/DerekKered044/terrapulse)**: Earth observation and natural hazard data from NASA, paired with a transparent disaster-to-economy simulator that shows how hazard events could affect economies. Built for NASA Space App Challenge 2026. Live demo: https://crollila.github.io/terrapulse-next/
 
-- ⚛️ **[PHY408 Codes](https://github.com/DerekKered044/PHY408_codes)**: Github trial for Data Intensive Science Class
-
 ## Tech stack
 
 **Data:** Python, pandas, NumPy, SciPy, SQL, scikit-learn, Jupyter
