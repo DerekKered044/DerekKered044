@@ -22,6 +22,7 @@ Web and mobile apps that put models and data in front of real users.
 ## Featured projects
 
 - 🌍 **[TerraPulse](https://github.com/DerekKered044/terrapulse)**: Earth observation and natural hazard data from NASA, paired with a transparent disaster-to-economy simulator that shows how hazard events could affect economies. Built for NASA Space App Challenge 2026. Live demo: https://crollila.github.io/terrapulse-next/
+- 🇲🇾 **[Malaysia Daily Snapshot](https://github.com/DerekKered044/malaysia-dashboard)**: Live dashboard of weather, air quality and ringgit exchange rates for all 13 states and 3 federal territories, built with open data APIs, JavaScript and Chart.js. Live demo: (https://derekkered044.github.io/malaysia-dashboard/)
 
 ## Tech stack
 
